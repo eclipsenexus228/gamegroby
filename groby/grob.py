@@ -9,7 +9,7 @@ TOKEN = "8706720051:AAG0-LW48AzHbzGjy0eQzwHpZIjmF_LhpN4"
 
 # Ссылка на твой хостинг, где лежит game.html
 # Пример: "https://username.github.io/mygame/game.html"
-WEB_APP_URL = "https://твой-сайт.com/game.html" 
+WEB_APP_URL = "https://eclipsenexus228.github.io/gamegroby/groby/index.html" 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
